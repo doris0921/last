@@ -1,0 +1,25 @@
+form a {
+  margin-left: 10px;
+}
+
+body {
+	font-family: 微軟正黑體,Arial, Helvetica, sans-serif;
+	margin: 0;
+  background: url('background.jpg') top center;
+  -webkit-background-size: cover;
+}
+
+.container{
+  margin: 10%;
+  text-align: center;
+}
+
+.context, .new_context{
+  width: 550px;
+  position: relative;;
+  left: 70%;
+}
+
+.show_context{
+  background-color:#A2EA7C;
+}
